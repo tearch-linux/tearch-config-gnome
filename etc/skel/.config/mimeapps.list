@@ -1,0 +1,4 @@
+[Added Associations]
+application/x-theme=org.gnome.gedit.desktop;atom.desktop;
+application/x-perl=org.gnome.gedit.desktop;
+text/plain=org.gnome.gedit.desktop;

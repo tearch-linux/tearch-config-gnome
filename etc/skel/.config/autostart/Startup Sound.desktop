@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=paplay /usr/share/sounds/TeArch/stereo/startup-sound.ogg
+X-GNOME-Autostart-enabled=true
+NoDisplay=false
+Hidden=false
+Name[tr_TR]=Startup Sound
+Comment[tr_TR]=No description
+X-GNOME-Autostart-Delay=1
