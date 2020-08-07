@@ -1,0 +1,10 @@
+[Unit]
+Description=Shutdown sound service for TeArch Linux.
+
+[Service]
+RemainAfterExit=true
+ExecStart=/bin/true
+ExecStop=mplayer /usr/share/sounds/TeArch/stereo/shutdown-sound.ogg
+
+[Install]
+WantedBy=multi-user.target
